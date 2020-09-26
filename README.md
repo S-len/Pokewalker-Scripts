@@ -23,10 +23,13 @@ Getting custom sprites onto the pokewalker:
 4. Save your ROM and run it via TWiLightMenu while having a cart that has IR plugged into slot 1.
 5. Send the Pokemon whose sprite you replaced to the walker.
 6. Done.
+
+There's a demo of a custom sprite on a walker [here](./demo.png).
 Note: For problems with getting the IR to work with custom roms you should ask the
 people that made it, I really can't help you with that.
 You can try [this](https://github.com/DS-Homebrew/TWiLightMenu/issues/962) or [this](https://github.com/DS-Homebrew/nds-bootstrap/issues/431).
 If you can, use a legit HGSS cart for the IR, since that's pretty much always going to work.
+Also only HG was checked so far.
 
 Dumping sprites from a/2/5/6:
 1. Get your backup of HGSS.
